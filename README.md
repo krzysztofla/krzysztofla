@@ -1,8 +1,14 @@
 ### Hi there 👋 I'm Chris - Cloud Developer & Software Engineering Consultant
 
+[![](https://img.shields.io/badge/-@_vai0-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/_vai0) 
+[![](https://img.shields.io/badge/-@krzysztofla-%23181717?style=flat-square&logo=github)](https://github.com/krzysztofla)
+[![](https://img.shields.io/badge/-Krzysztof%20Lach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krzysztof-lach-9b0077112/)](https://www.linkedin.com/in/krzysztof-lach-9b0077112/)
 
 - 🔭 This is my afte hours playground where I'm trying and learning new tech stuf!
 - 🌱 I’m currently learning Go, Cloud Architecture, DevOps
 - 😍 Constantly sharping my c# .Net skills 
 - 💬 Ask me anything ...
 - 📫 How to reach me: krzysztof.lach@icloud.com
+
+## 𝗦𝘁𝗮𝘁𝘀
+![krzysztofla's github stats](https://github-readme-stats.vercel.app/api?username=krzysztofla&show_icons=true&theme=dracula)
