@@ -13,3 +13,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![krzysztofla's github stats](https://github-readme-stats.vercel.app/api?username=krzysztofla&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
