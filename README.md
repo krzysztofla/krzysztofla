@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Go, Cloud Architecture, DevOps
 - 😍 Constantly sharping my c# .Net skills 
 - 💬 Ask me anything ...
-- 📫 How to reach me: krzysztof.lach@icloud.com
+- 📫 How to reach me: ```krzysztof.lach<at>icloud.com```
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![krzysztofla's github stats](https://github-readme-stats.vercel.app/api?username=krzysztofla&show_icons=true&theme=dracula)
