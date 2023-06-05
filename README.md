@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-Krzysztof%20Lach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krzysztof-lach-9b0077112/)](https://www.linkedin.com/in/krzysztof-lach-9b0077112/)
 
 - 🔭 This is my afte hours playground where I'm trying and learning new tech stuf!
-- 🌱 I’m currently learning Python, DevOps, Cloud Architecture, Go
+- 🌱 I’m currently learning DevOps, Cloud Architecture, Go
 - 😍 
 - 💬 Ask me anything ...
 - 📫 How to reach me: ```krzysztof.lach<at>icloud.com```
